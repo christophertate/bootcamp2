@@ -1,0 +1,123 @@
+/*  @media work for day 2 */
+@media screen and (min-width: 480px) {
+body{
+  min-height: 100vh;
+}
+
+
+  .outer{
+  background-color: #66ff66;
+  padding: 50px;
+  border: 1px solid #000;
+}
+
+
+.navigation{
+  background-color: grey;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.jumbotron{
+  background-color: brown ;
+  border: 1px solid #000;
+    padding: 25px;
+    margin-bottom: 0px;
+}
+
+.pre-offset{
+  background-color: lightgreen;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.offset{
+  background-color: purple;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.content{
+  background-color: red;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.aside{
+  background-color: orange ;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.promo {
+  background-color: pink ;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.footer {
+  background-color: #9494b8;
+  border: 1px solid #000;
+    padding: 25px;
+}
+}
+body{
+  min-height: 100vh;
+}
+
+
+
+.outer{
+  background-color: yellow;
+  padding: 50px;
+  border: 1px solid #000;
+}
+
+.navigation{
+  background-color: blue;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.jumbotron{
+  background-color: teal ;
+  border: 1px solid #000;
+    padding: 25px;
+    margin-bottom: 0px;
+}
+
+.pre-offset{
+  background-color: green;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.offset{
+  background-color: green;
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.content{
+  background-color: red;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.aside{
+  background-color: purple ;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.promo {
+  background-color: purple ;
+  border: 1px solid #000;
+    padding: 25px;
+}
+
+.footer {
+  background-color: orange;
+  border: 1px solid #000;
+    padding: 25px;
+}
